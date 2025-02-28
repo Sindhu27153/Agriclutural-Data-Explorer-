@@ -5,9 +5,9 @@ from urllib.parse import quote_plus
 
 #details to connect to database
 host = '127.0.0.1'
-user = 'root'
-password = 'India@123'
-Database = 'Agrodata'
+user = Your Username
+password = Your Password
+Database = Your database Name
 
 
 # URL-encode the password
