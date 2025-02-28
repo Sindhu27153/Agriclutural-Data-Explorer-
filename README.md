@@ -43,15 +43,15 @@ Clone the Repository:
 git clone "https://github.com/sindhu27153/agro-data-analysis.git"
 cd agro-data-analysis
 
-<h2>Install Dependencies:</h2>
+Install Dependencies:
 
 pip install -r requirements.txt
 
-<h2>Run Jupyter Notebook for Data Analysis:</h2>
+Run Jupyter Notebook for Data Analysis:
 
 jupyter notebook data.ipynb
 
-<h2>Open Power BI for Visualization:</h2>
+Open Power BI for Visualization:
 
 Launch Power BI Desktop.
 
