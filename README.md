@@ -40,7 +40,7 @@ Dashboard Development: Build an interactive dashboard using Power BI.
 
 Clone the Repository:
 
-git clone https://github.com/sindhu27153/agro-data-analysis.git
+git clone "https://github.com/sindhu27153/agro-data-analysis.git"
 cd agro-data-analysis
 
 <h2>Install Dependencies:</h2>
